@@ -1,6 +1,6 @@
 # Enrollment Ledger — Student Registration System
 
-A responsive Student Registration System built with **HTML, CSS, Bootstrap 5, and vanilla JavaScript** for Task 08 (JavaScript DOM & Form Validation Project).
+A responsive Student Registration System built with **HTML, CSS, Bootstrap 5, and vanilla JavaScript**  (JavaScript DOM & Form Validation Project).
 
 ## Features
 
@@ -43,14 +43,4 @@ No build step is required. Either:
 | Phone | Required, 7–15 digits, optional leading `+` |
 | Course Name | Required, 2+ characters |
 
-## Deployment
 
-This is a static site, so it deploys directly to **Netlify** or **Vercel** with no build command:
-
-- **Netlify:** Drag-and-drop the project folder onto [app.netlify.com/drop](https://app.netlify.com/drop), or connect the GitHub repo (build command: none, publish directory: `/`).
-- **Vercel:** Import the GitHub repo at [vercel.com/new](https://vercel.com/new) and deploy with the default static settings.
-
-## Live Links
-
-- GitHub Repository: _add link here_
-- Live Deployment: _add link here_
